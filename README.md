@@ -1,16 +1,39 @@
-## Hi there 👋
+# Abhiram Kondaguduru
 
-<!--
-**k-abhiram21/k-abhiram21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a computer science student at KMIT, Hyderabad, interested in software systems,
+Linux, and LLM reliability.
 
-Here are some ideas to get you started:
+## Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**AI Research Intern · LLMLens Paradigm** — Feb 2026–present
+
+I study how well uncertainty signals reveal incorrect LLM answers.
+My work spans experiment design, evaluation software, analysis, and writing.
+I’m currently developing and debugging routing and verification code that
+determines when to use another model’s response.
+
+## Work
+
+- [HeliVision](https://github.com/k-abhiram21/helivision) — A Raspberry Pi helmet
+  prototype that turns vehicle detections into visor cues and spoken alerts.
+- [StreamWatch](https://github.com/k-abhiram21/streamwatch) — A MongoDB workspace
+  connecting data exploration with application metrics and Grafana dashboards.
+
+## Highlights
+
+- **Published patent application** — HeliVision, Indian application
+  **202541100066**; under examination.
+- **First author** — *Where Internal Signals Fail*, a research manuscript currently
+  with the editor at *Knowledge and Information Systems* (Springer).
+
+## Tools
+
+Python · JavaScript · React · FastAPI · MongoDB · Hugging Face Transformers ·
+TensorFlow Lite · Prometheus · Grafana · Git · Docker
+
+## Links
+
+[Portfolio](https://k-abhiram21.github.io/) ·
+[Résumé](https://k-abhiram21.github.io/assets/documents/abhiram-kondaguduru-resume.pdf) ·
+[LinkedIn](https://www.linkedin.com/in/abhiram-kondaguduru) ·
+[Email](mailto:abhiramkondaguduru@gmail.com)
