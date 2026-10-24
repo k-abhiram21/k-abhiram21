@@ -9,8 +9,8 @@ Linux, and LLM reliability.
 
 I study how well uncertainty signals reveal incorrect LLM answers.
 My work spans experiment design, evaluation software, analysis, and writing.
-I’m currently developing and debugging routing and verification code that
-determines when to use another model’s response.
+I develop and evaluate routing between a base LLM and specialist adapters,
+including verification and fallback handling.
 
 ## Work
 
